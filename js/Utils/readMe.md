@@ -1,7 +1,7 @@
-# a
-  ![GitHub license](https://img.shields.io/badge/license-q-blue.svg)
+# s
+  ![GitHub license](https://img.shields.io/badge/license-d-blue.svg)
 ## Description
-f
+v
 ## Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -22,25 +22,25 @@ f
 ## Installation
 To install necessary dependencies, run the following command:
 ```
-c
+t
 ```
 ## Usage
-w
+g
 ## license
 
-This project is lincese under the q license
+This project is lincese under the d license
     
 ## Contributing
-y
+w
 ## Tests
-g
+b
 To run tests, run the following command:
 ```
-g
+b
 ```
 ## Questions
-o
+ 
 ## Contacts
-k
-##EMAIL: q
-##Github:[t](https://github.com/t/)
+f
+##EMAIL: fe
+##Github:[e3whn](https://github.com/e3whn/)
