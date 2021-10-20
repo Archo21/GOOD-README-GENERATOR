@@ -1,7 +1,7 @@
-# s
-  ![GitHub license](https://img.shields.io/badge/license-d-blue.svg)
+# Denta
+  ![GitHub license](https://img.shields.io/badge/license-qwell-blue.svg)
 ## Description
-v
+follow all process as they prompt
 ## Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -22,25 +22,25 @@ v
 ## Installation
 To install necessary dependencies, run the following command:
 ```
-t
+from step 1-10
 ```
 ## Usage
-g
+check the instruction booklet
 ## license
 
-This project is lincese under the d license
+This project is lincese under the qwell license
     
 ## Contributing
-w
+Archo
 ## Tests
-b
+///
 To run tests, run the following command:
 ```
-b
+///
 ```
 ## Questions
- 
+call
 ## Contacts
-f
-##EMAIL: fe
-##Github:[e3whn](https://github.com/e3whn/)
+d
+##EMAIL: oburuachils@hotmail.com
+##Github:[archi](https://github.com/archi/)
